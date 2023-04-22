@@ -1,4 +1,5 @@
 # CapsNumTray
+![SysTray](/img/1.png)  
 The scripts require [AutoHotKey v2.0](https://www.autohotkey.com)
 
 The scripts adds the icons of enabled NumLock and CapsLock to the System Tray and changes the key behavior as follows:  
