@@ -4,7 +4,7 @@
 If GetKeyState("CapsLock", "T")
 {
     A_IconHidden := False
-    TraySetIcon("caps_white.ico")
+    TraySetIcon("ico/caps_white.ico")
 }
 Else
 {
@@ -31,6 +31,6 @@ Else
     {
         SetCapsLockState True
         A_IconHidden := False
-        TraySetIcon("caps_white.ico")
+        TraySetIcon("ico/caps_white.ico")
     }
 }

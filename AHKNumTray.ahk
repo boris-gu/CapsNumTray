@@ -4,7 +4,7 @@
 If GetKeyState("NumLock", "T")
 {
     A_IconHidden := False
-    TraySetIcon("num_white.ico")
+    TraySetIcon("ico/num_white.ico")
 }
 Else
 {
@@ -22,6 +22,6 @@ Else
     {
         SetNumLockState True
         A_IconHidden := False
-        TraySetIcon("num_white.ico")
+        TraySetIcon("ico/num_white.ico")
     }
 }
