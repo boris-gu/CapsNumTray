@@ -7,7 +7,10 @@ __CapsLock__ - changes the keyboard layout;
 __Shift+CapsLock__ - CapsLock.  
 To remove this behavior you need to uncomment/comment some parts of the code in `AHKCapsTray.ahk` file (I pointed out specific parts in the file).
 
-If you are using a white Windows 11 theme then replace `ico/caps_white.ico` with `ico/caps_black.ico`.
+If you are using a white Windows 11 theme then replace `ico/caps_white.ico` to `ico/caps_black.ico`.
+
+__Be sure to enable UI Access!__  
+![UI Access](/img/2.png)  
 
 ## Autostart
 1. Create script shortcuts
